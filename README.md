@@ -1,15 +1,15 @@
 # Data Challenge 20221121
 
-### Obrigatório
+### Antes de começar
  
-- Trabalhar em um FORK deste repositório em seu usuário;
-- O projeto deve utilizar a Linguagem especifica na sua Vaga. Por exempo: Python, R, Scala e entre outras
-- Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório);
-
+- Prepare o projeto para ser disponibilizado no Github, copiando o conteúdo deste repositório para o seu (ou utilize o fork do projeto e aponte para o Github). Confirme que a visibilidade do projeto é pública (não esqueça de colocar no readme a referência a este challenge);
+- O projeto deve utilizar a Linguagem específica na sua Vaga (caso esteja se candidatando). Por exempo: Python, R, Scala e entre outras;
+- Considere como deadline 5 dias a partir do início do desafio. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
+- Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 
 ## Estudar o Modelo de Dados
 
-Antes de começar o desafios é imprescindível estudar o modelo [attributes.txt](./data/attributes.txt)
+Antes de começar o desafio é imprescindível estudar o modelo [attributes.txt](./data/attributes.txt)
 
 
 ## Carregar os arquivos
