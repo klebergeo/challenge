@@ -44,32 +44,37 @@ Nessa etapa você poderá exibir os dados por meio de uma REST API ou no Colab, 
 
 7- A frequência de "Movies" de todos os dados e comparativamente em relação as duas plataformas
 
-
 ## Readme do Repositório
- 
+
 - Deve conter o título do projeto
-- Uma descrição de uma frase
+- Uma descrição sobre o projeto em frase
+- Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
 - Como instalar e usar o projeto (instruções)
 - Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
- 
+- Se está usando github pessoal, referencie que é um challenge by coodesh:  
+
+>  This is a challenge by [Coodesh](https://coodesh.com/)
+
+
 ## Finalização e Instruções para a Apresentação
 
 Avisar sobre a finalização e enviar para correção.
 
-1. Confira se você respondeu o Scorecard da Vaga que chegou no seu email;
-2. Confira se você respondeu o Mapeamento Comportamental que chegou no seu email;
-3. Acesse: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
+1. Confira se você respondeu o Scorecard anexado na Vaga que se candidatou;
+2. Confira se você respondeu o Mapeamento anexado na Vaga que se candidatou;
+3. Acesse [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
 4. Adicione o repositório com a sua solução;
-5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Foque em pontos obrigatórios e diferenciais quando for apresentar.
+5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Utilize o tempo para:
+- Explicar o objetivo do desafio
+- Quais tecnologias foram utilizadas
+- Mostrar a aplicação em funcionamento
+- Foque em pontos obrigatórios e diferenciais quando for apresentar.
 6. Adicione o link da apresentação do seu projeto no README.md.
 7. Verifique se o Readme está bom e faça o commit final em seu repositório;
 8. Confira a vaga desejada;
 9. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
-
-
 ## Suporte
 
-Use o nosso canal no slack: http://bit.ly/32CuOMy para tirar dúvidas sobre o processo ou envie um e-mail para contato@coodesh.com. 
-
+Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
 
